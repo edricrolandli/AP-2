@@ -24,3 +24,9 @@ int main(){
     o l "Akar kuadrat dari " l angka l " adalah : " l akar l e;
 
 }
+
+// penjelasan disini
+// jadi di line 3 sudah kita include library yang kita buat sendiri kan ya
+// makanya banyak yang bisa diganti
+// contoh di line 4, harusnya using namespace std; tapi karena sudah di define kalau "u" itu adalah "using namespace std", maka itu tidak error
+// sesimple ituu, yang lain"nya juga sama seperti itu
