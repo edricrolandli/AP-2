@@ -44,3 +44,10 @@ int main() {
     }
     
 }
+
+// simplenya dari latihan ini tuhhhh
+// awalnya inisialisasi dulu matriks ukuran 2x2, lalu ada juga untuk simpen hasil
+// nah setelah itu, perulangan itu untuk masukkan inputan dari matriks"nya
+// line 35 and so on itu untuk jumlahkan, dari matriks 1 dengan matriks 2
+// sederhana tapi codingannya mematikan yaampun...
+// tapi intinya gitu deh
