@@ -56,4 +56,11 @@ int main()
 
     turunan tur;
     tur.akses_protected();
+
+    // simplenya codingan ini sebenarnya untuk ngebuktiin kalau
+    // public = var yg bisa diakses di manapun, termasuk di luar kelasnya
+    // protected = var yg masih bisa di akses di kelasnya sendiri, maupun kelas turunannya
+    // private = tingkat tertinggi, hanya bisa diakses di kelas sendiri saja, tidak bisa dimana pun
+    // gampangnya yang pernah pakai drive or document di google
+    // private itu literally restricted, protected juga restricted tapi masih di share khusus siapa aja editornya, klo public nah dibuka ke siapa aja yang memiliki link gitu
 }
